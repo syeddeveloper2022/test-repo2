@@ -1,5 +1,5 @@
-public class Main { #Hello from Dev2
+public class Main { 
   public static void main(String[] args) {
-    System.out.println("Hello Dev2");
+    System.out.println("Hello Dev2 after conflict");
   }
-} #Hello from dev2
+} 
