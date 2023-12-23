@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+public class Main { #Hello from Dev2
+  public static void main(String[] args) {
+    System.out.println("Hello Dev2");
+  }
+} #Hello from dev2
+=======
+public class Main { #Hello from Dev1
+  public static void main(String[] args) {
+    System.out.println("Hello Dev2");
+  }
+} #Hello from dev1 to be changed
+
+>>>>>>> 4f0820a25830ea44a039b1771728439da515acf8
